@@ -1,0 +1,17 @@
+    /src            -org.eclipse.core.resources.noExplicitEncoding  severity    location /src  message *Project 'src' has no explicit encoding set  ™aÿ7C 4/src/edu/ccrm/exception/CourseNotFoundException.java           org.eclipse.jdt.core.problem 	 severity    sourceId JDT 	charStart   ,  charEnd   C 	arguments 1:CourseNotFoundException id   `  message rThe serializable class CourseNotFoundException does not declare a static final serialVersionUID field of type long 
+lineNumber    
+categoryId   Z  ™aÿ<Ò 4/src/edu/ccrm/exception/DuplicateEntryException.java              	 severity    sourceId JDT 	charStart   ,  charEnd   C 	arguments 1:DuplicateEntryException id   `  message rThe serializable class DuplicateEntryException does not declare a static final serialVersionUID field of type long 
+lineNumber    
+categoryId   Z  ™aÿ<Ó 8/src/edu/ccrm/exception/InstructorNotFoundException.java              	 severity    sourceId JDT 	charStart   ,  charEnd   G 	arguments 1:InstructorNotFoundException id   `  message vThe serializable class InstructorNotFoundException does not declare a static final serialVersionUID field of type long 
+lineNumber    
+categoryId   Z  ™aÿ<Ö </src/edu/ccrm/exception/MaxCreditLimitExceededException.java              	 severity    sourceId JDT 	charStart   ,  charEnd   K 	arguments !1:MaxCreditLimitExceededException id   `  message zThe serializable class MaxCreditLimitExceededException does not declare a static final serialVersionUID field of type long 
+lineNumber    
+categoryId   Z  ™aÿ<Ö 5/src/edu/ccrm/exception/StudentNotFoundException.java              	 severity    sourceId JDT 	charStart   ,  charEnd   D 	arguments 1:StudentNotFoundException id   `  message sThe serializable class StudentNotFoundException does not declare a static final serialVersionUID field of type long 
+lineNumber    
+categoryId   Z  ™aÿ<Ö "/src/edu/ccrm/io/DataExporter.java              	 severity    sourceId JDT 	charStart   B  charEnd   X 	arguments 1:edu.ccrm.domain.Course id „  message /The import edu.ccrm.domain.Course is never used 
+lineNumber    
+categoryId   x  ™aÿ=            	 severity    sourceId JDT 	charStart   b  charEnd   | 	arguments 1:edu.ccrm.domain.Enrollment id „  message 3The import edu.ccrm.domain.Enrollment is never used 
+lineNumber    
+categoryId   x  ™aÿ=           	 severity    sourceId JDT 	charStart   †  charEnd    	arguments 1:edu.ccrm.domain.Student id „  message 0The import edu.ccrm.domain.Student is never used 
+lineNumber    
+categoryId   x  ™aÿ=
